@@ -30,5 +30,5 @@ rc=`echo $reverse | tr 'atcg' 'tagc'`
 echo "$rc
 "
 
-echo $name >$1.rc.txt
-echo $rc >>$1.rc.txt
+echo $name >rc.$1.txt
+echo $rc >>rc.$1.txt
