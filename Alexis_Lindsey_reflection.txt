@@ -1,0 +1,4 @@
+I am very bad at managing my files with helpful comments; it would surely not stand up to
+a reproducibility test.
+That kind of management makes working with other pople's data very difficult.
+I work in conservation genetics, and my own habits have kicked me in the but several times when I've gone back to data previously and had no idea what was going on.

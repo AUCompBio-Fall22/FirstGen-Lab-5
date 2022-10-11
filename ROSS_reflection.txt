@@ -1,0 +1,4 @@
+I currently do not have a system for managing documents and code, although I am beginning to see the benefits of organizing scritps in GitHub.
+I have not done any projects that would be associated with publishable work, but I think using GitHub and markdown READMEs would be conducive to reproducibility.
+Non-reproducible research is not as powerful as reproducible research, as it cannot be as easily verified. It weakens trust in the field and can be easily fixed with best practices.
+I plan to go into medicine, and reproducible research is very important, especially as it can often direclty have impacts on people's health.
